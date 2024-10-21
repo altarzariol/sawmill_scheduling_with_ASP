@@ -1,0 +1,20 @@
+./ins3/,./enc/lin_with_dk.lp,instance_real3,bb,SATISFIABLE,501 15 100,1800.000,1797.59
+./ins3/,./enc/lin_without_dk.lp,instance_real3,bb,SATISFIABLE,2420 8 77,1800.000,1797.19
+./ins3/,./enc/trivial_with_dk.lp,instance_real3,bb,SATISFIABLE,645 12 100,1800.000,1779.61
+./ins3/,./enc/trivial_without_dk.lp,instance_real3,bb,SATISFIABLE,2783 0 73,1800.000,1778.26
+./ins3/,./enc/lin_with_dk.lp,instance_real3_c,bb,SATISFIABLE,812 42 100,1800.000,1797.51
+./ins3/,./enc/lin_without_dk.lp,instance_real3_c,bb,SATISFIABLE,1354 20 92,1800.000,1797.22
+./ins3/,./enc/trivial_with_dk.lp,instance_real3_c,bb,SATISFIABLE,923 39 99,1800.000,1779.17
+./ins3/,./enc/trivial_without_dk.lp,instance_real3_c,bb,SATISFIABLE,2484 16 69,1800.000,1778.32
+./ins3/,./enc/lin_with_dk.lp,instance_real3_d,bb,SATISFIABLE,1809 0 100,1800.000,1797.36
+./ins3/,./enc/lin_without_dk.lp,instance_real3_d,bb,SATISFIABLE,5175 0 55,1800.000,1797.02
+./ins3/,./enc/trivial_with_dk.lp,instance_real3_d,bb,SATISFIABLE,1858 0 100,1800.004,1779.21
+./ins3/,./enc/trivial_without_dk.lp,instance_real3_d,bb,SATISFIABLE,3765 0 73,1799.999,1777.75
+./ins3/,./enc/lin_with_dk.lp,instance_real3_h,bb,OPTIMUM FOUND,0 55 62,1088.712,1086.51
+./ins3/,./enc/lin_without_dk.lp,instance_real3_h,bb,SATISFIABLE,0 86 62,1800.003,1797.67
+./ins3/,./enc/trivial_with_dk.lp,instance_real3_h,bb,SATISFIABLE,0 64 62,1800.000,1778.10
+./ins3/,./enc/trivial_without_dk.lp,instance_real3_h,bb,SATISFIABLE,0 57 62,1800.000,1777.88
+./ins3/,./enc/lin_with_dk.lp,instance_real3_o,bb,SATISFIABLE,1851 100,1800.000,1797.32
+./ins3/,./enc/lin_without_dk.lp,instance_real3_o,bb,SATISFIABLE,5388 50,1800.000,1796.95
+./ins3/,./enc/trivial_with_dk.lp,instance_real3_o,bb,SATISFIABLE,1827 0 100,1800.000,1779.22
+./ins3/,./enc/trivial_without_dk.lp,instance_real3_o,bb,SATISFIABLE,4837 0 63,1800.000,1778.03

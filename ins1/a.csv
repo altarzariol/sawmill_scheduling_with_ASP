@@ -1,0 +1,242 @@
+ 
+************ ./ins1/instance_real1.lp **************
+clingo version 5.7.1
+Reading from ./enc/lin_with_dk.lp ...
+Solving...
+SATISFIABLE
+
+TIME LIMIT   : 1
+Models       : 75+
+  Optimum    : unknown
+Optimization : 1270 0 100
+Calls        : 1
+Time         : 1800.000s (Solving: 1797.49s 1st Model: 1.29s Unsat: 0.00s)
+CPU Time     : 1798.370s
+clingo version 5.7.1
+Reading from ./enc/lin_without_dk.lp ...
+Solving...
+SATISFIABLE
+
+TIME LIMIT   : 1
+Models       : 123+
+  Optimum    : unknown
+Optimization : 2474 0 74
+Calls        : 1
+Time         : 1800.000s (Solving: 1797.12s 1st Model: 0.04s Unsat: 0.00s)
+CPU Time     : 1798.153s
+clingo version 5.7.1
+Reading from ./enc/trivial_with_dk.lp ...
+Solving...
+SATISFIABLE
+
+TIME LIMIT   : 1
+Models       : 16+
+  Optimum    : unknown
+Optimization : 1456 0 100
+Calls        : 1
+Time         : 1800.001s (Solving: 1779.53s 1st Model: 34.50s Unsat: 0.00s)
+CPU Time     : 1798.645s
+clingo version 5.7.1
+Reading from ./enc/trivial_without_dk.lp ...
+Solving...
+SATISFIABLE
+
+TIME LIMIT   : 1
+Models       : 63+
+  Optimum    : unknown
+Optimization : 3219 0 69
+Calls        : 1
+Time         : 1800.000s (Solving: 1777.91s 1st Model: 0.53s Unsat: 0.00s)
+CPU Time     : 1797.559s
+************ ./ins1/instance_real1_c.lp **************
+clingo version 5.7.1
+Reading from ./enc/lin_with_dk.lp ...
+Solving...
+SATISFIABLE
+
+TIME LIMIT   : 1
+Models       : 57+
+  Optimum    : unknown
+Optimization : 871 98 100
+Calls        : 1
+Time         : 1800.000s (Solving: 1797.44s 1st Model: 3.26s Unsat: 0.00s)
+CPU Time     : 1797.662s
+clingo version 5.7.1
+Reading from ./enc/lin_without_dk.lp ...
+Solving...
+SATISFIABLE
+
+TIME LIMIT   : 1
+Models       : 118+
+  Optimum    : unknown
+Optimization : 2426 5 66
+Calls        : 1
+Time         : 1800.000s (Solving: 1797.20s 1st Model: 0.04s Unsat: 0.00s)
+CPU Time     : 1797.619s
+clingo version 5.7.1
+Reading from ./enc/trivial_with_dk.lp ...
+Solving...
+SATISFIABLE
+
+TIME LIMIT   : 1
+Models       : 28+
+  Optimum    : unknown
+Optimization : 937 64 100
+Calls        : 1
+Time         : 1800.000s (Solving: 1778.92s 1st Model: 74.35s Unsat: 0.00s)
+CPU Time     : 1797.752s
+clingo version 5.7.1
+Reading from ./enc/trivial_without_dk.lp ...
+Solving...
+SATISFIABLE
+
+TIME LIMIT   : 1
+Models       : 68+
+  Optimum    : unknown
+Optimization : 3127 0 68
+Calls        : 1
+Time         : 1800.000s (Solving: 1777.80s 1st Model: 0.54s Unsat: 0.00s)
+CPU Time     : 1796.859s
+************ ./ins1/instance_real1_d.lp **************
+clingo version 5.7.1
+Reading from ./enc/lin_with_dk.lp ...
+Solving...
+SATISFIABLE
+
+TIME LIMIT   : 1
+Models       : 44+
+  Optimum    : unknown
+Optimization : 1804 0 100
+Calls        : 1
+Time         : 1800.000s (Solving: 1797.35s 1st Model: 0.93s Unsat: 0.00s)
+CPU Time     : 1797.598s
+clingo version 5.7.1
+Reading from ./enc/lin_without_dk.lp ...
+Solving...
+SATISFIABLE
+
+TIME LIMIT   : 1
+Models       : 55+
+  Optimum    : unknown
+Optimization : 5010 0 55
+Calls        : 1
+Time         : 1800.000s (Solving: 1797.00s 1st Model: 0.05s Unsat: 0.00s)
+CPU Time     : 1796.294s
+clingo version 5.7.1
+Reading from ./enc/trivial_with_dk.lp ...
+Solving...
+SATISFIABLE
+
+TIME LIMIT   : 1
+Models       : 9+
+  Optimum    : unknown
+Optimization : 2012 0 100
+Calls        : 1
+Time         : 1800.000s (Solving: 1779.40s 1st Model: 17.92s Unsat: 0.00s)
+CPU Time     : 1797.294s
+clingo version 5.7.1
+Reading from ./enc/trivial_without_dk.lp ...
+Solving...
+SATISFIABLE
+
+TIME LIMIT   : 1
+Models       : 45+
+  Optimum    : unknown
+Optimization : 4780 0 65
+Calls        : 1
+Time         : 1800.000s (Solving: 1777.76s 1st Model: 0.53s Unsat: 0.00s)
+CPU Time     : 1797.409s
+************ ./ins1/instance_real1_o.lp **************
+clingo version 5.7.1
+Reading from ./enc/lin_with_dk.lp ...
+Solving...
+OPTIMUM FOUND
+
+Models       : 18
+  Optimum    : yes
+Optimization : 2399 100
+Calls        : 1
+Time         : 891.270s (Solving: 888.49s 1st Model: 1.97s Unsat: 845.11s)
+CPU Time     : 890.014s
+clingo version 5.7.1
+Reading from ./enc/lin_without_dk.lp ...
+Solving...
+SATISFIABLE
+
+TIME LIMIT   : 1
+Models       : 107+
+  Optimum    : unknown
+Optimization : 2791 94
+Calls        : 1
+Time         : 1800.000s (Solving: 1796.82s 1st Model: 0.05s Unsat: 0.00s)
+CPU Time     : 1797.286s
+clingo version 5.7.1
+Reading from ./enc/trivial_with_dk.lp ...
+Solving...
+SATISFIABLE
+
+TIME LIMIT   : 1
+Models       : 13+
+  Optimum    : unknown
+Optimization : 2399 0 100
+Calls        : 1
+Time         : 1800.000s (Solving: 1779.45s 1st Model: 360.02s Unsat: 0.00s)
+CPU Time     : 1797.158s
+clingo version 5.7.1
+Reading from ./enc/trivial_without_dk.lp ...
+Solving...
+SATISFIABLE
+
+TIME LIMIT   : 1
+Models       : 64+
+  Optimum    : unknown
+Optimization : 4623 0 65
+Calls        : 1
+Time         : 1800.000s (Solving: 1777.92s 1st Model: 0.52s Unsat: 0.00s)
+CPU Time     : 1797.106s
+************ ./ins1/instance_real1h.lp **************
+clingo version 5.7.1
+Reading from ./enc/lin_with_dk.lp ...
+Solving...
+OPTIMUM FOUND
+
+Models       : 263
+  Optimum    : yes
+Optimization : 0 51 71
+Calls        : 1
+Time         : 689.165s (Solving: 686.99s 1st Model: 0.17s Unsat: 90.19s)
+CPU Time     : 688.177s
+clingo version 5.7.1
+Reading from ./enc/lin_without_dk.lp ...
+Solving...
+OPTIMUM FOUND
+
+Models       : 301
+  Optimum    : yes
+Optimization : 0 51 71
+Calls        : 1
+Time         : 1795.911s (Solving: 1793.55s 1st Model: 0.07s Unsat: 69.56s)
+CPU Time     : 1793.692s
+clingo version 5.7.1
+Reading from ./enc/trivial_with_dk.lp ...
+Solving...
+SATISFIABLE
+
+TIME LIMIT   : 1
+Models       : 100+
+  Optimum    : unknown
+Optimization : 0 59 71
+Calls        : 1
+Time         : 1800.000s (Solving: 1778.60s 1st Model: 3.93s Unsat: 0.00s)
+CPU Time     : 1797.642s
+clingo version 5.7.1
+Reading from ./enc/trivial_without_dk.lp ...
+Solving...
+OPTIMUM FOUND
+
+Models       : 314
+  Optimum    : yes
+Optimization : 0 51 71
+Calls        : 1
+Time         : 1562.147s (Solving: 1540.02s 1st Model: 0.52s Unsat: 298.12s)
+CPU Time     : 1561.861s
